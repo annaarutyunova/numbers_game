@@ -1,0 +1,15 @@
+C:\Git_GitHub\programming_w_classes\numbers_game\bin\Debug\net6.0\numbers_game.exe
+C:\Git_GitHub\programming_w_classes\numbers_game\bin\Debug\net6.0\numbers_game.deps.json
+C:\Git_GitHub\programming_w_classes\numbers_game\bin\Debug\net6.0\numbers_game.runtimeconfig.json
+C:\Git_GitHub\programming_w_classes\numbers_game\bin\Debug\net6.0\numbers_game.dll
+C:\Git_GitHub\programming_w_classes\numbers_game\bin\Debug\net6.0\numbers_game.pdb
+C:\Git_GitHub\programming_w_classes\numbers_game\obj\Debug\net6.0\numbers_game.csproj.AssemblyReference.cache
+C:\Git_GitHub\programming_w_classes\numbers_game\obj\Debug\net6.0\numbers_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git_GitHub\programming_w_classes\numbers_game\obj\Debug\net6.0\numbers_game.AssemblyInfoInputs.cache
+C:\Git_GitHub\programming_w_classes\numbers_game\obj\Debug\net6.0\numbers_game.AssemblyInfo.cs
+C:\Git_GitHub\programming_w_classes\numbers_game\obj\Debug\net6.0\numbers_game.csproj.CoreCompileInputs.cache
+C:\Git_GitHub\programming_w_classes\numbers_game\obj\Debug\net6.0\numbers_game.dll
+C:\Git_GitHub\programming_w_classes\numbers_game\obj\Debug\net6.0\refint\numbers_game.dll
+C:\Git_GitHub\programming_w_classes\numbers_game\obj\Debug\net6.0\numbers_game.pdb
+C:\Git_GitHub\programming_w_classes\numbers_game\obj\Debug\net6.0\numbers_game.genruntimeconfig.cache
+C:\Git_GitHub\programming_w_classes\numbers_game\obj\Debug\net6.0\ref\numbers_game.dll
